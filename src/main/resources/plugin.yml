@@ -1,0 +1,12 @@
+name: DailyShop
+version: 1.0.0
+api-version: 1.17
+author: MidnightSugar
+main: me.midnightsugar.dailyshop.DailyShop
+depend:
+  - Vault
+commands:
+  dailyshop:
+    description: Command for Daily Shops.
+    usage: /dailyshop
+    aliases: [dshop, ds]
